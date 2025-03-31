@@ -1,7 +1,7 @@
 # 📊 Proyecto de BI Financiero: Comparación de Carteras de Inversión
 
 ## 📌 Descripción
-Este proyecto de Business Intelligence (BI) financiero tiene como objetivo comparar el rendimiento de cinco carteras de inversión, analizando también el desempeño de los sectores y los activos que las componen. Se implementa en dos arquitecturas paralelas:
+Este proyecto de Business Intelligence (BI) tiene como objetivo comparar el rendimiento de cinco carteras de inversión, analizando también el desempeño de los sectores y los activos que las componen. Se implementa en dos arquitecturas paralelas:
 
 - **On-Premise:** Uso de Jupyter Notebooks con Python, almacenamiento en SQL Server y visualización en Power BI.
 - **Cloud (Databricks):** Implementación en Databricks con conexión directa a Power BI.
